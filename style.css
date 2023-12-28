@@ -1,0 +1,111 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+.container{
+      margin: 0 auto;
+      max-width: 1440px;
+      height: 96%;
+}
+      /*Headar area start */
+.header-area{
+      background-color:white;
+}     
+      
+.header{
+      display: flex;
+      height: 133px;
+      justify-content: space-between;
+      align-items: center;
+}     
+.header ul li{
+      list-style:none ;
+      display: inline-block;
+
+}     
+.header ul li a{
+      text-decoration: none;
+      margin-right: 20px;
+}  
+
+
+
+
+
+
+      /*Headar area end */
+
+       /*bannar area start*/
+.banner-area{
+      position: relative;
+      background-image: url(image/banner.png);
+      background-size: cover;
+      height: 616px;
+      width: 100%;
+}
+      /*bannar area start*/
+.banner-taxt{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+
+      
+      
+}
+      /*bannar area end*/
+
+.principle-area{
+      background-color: white;
+      
+/*principle area strat*/
+}
+.principle{
+      display: flex;
+      margin-top: 30px;
+      
+}
+.principle-text{
+      text-decoration: ;
+      
+}
+.principle-img{
+      margin-right: 50px;
+      
+}
+/*principle area end*/
+
+.session-area{
+      background-color: aquamarine;
+}
+.session{
+      display: flex;
+}
+.Service-area{
+      background-color:white;
+      
+}
+.Service{
+      display: flex;
+}
+
+.Philosophy-area{
+      background-color: darkcyan;
+}
+.Philosophy{
+      display: flex;
+}
+.rikta-area{
+      background-color: white;
+}
+.rikta{
+      display: flex;
+} 
+.mind-area{
+      background-color: aqua;
+}
+.mind{
+      display: flex;
+}
+.end-area{
+      background-color: aqua;
+}
